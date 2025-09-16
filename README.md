@@ -1,6 +1,6 @@
 # Real-Time Facial Recognition Entry System  
 
-> ### Disclaimer (with a pinch of sarcasm 😏)  
+
 This project was originally crafted by my friend.  
 I just ran it on my laptop, dropped a few *"hey, maybe do this"* suggestions,  
 and pretended to understand everything (don’t worry, I eventually did 👀).  
