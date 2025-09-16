@@ -3,7 +3,7 @@
 
 This project was originally crafted by my friend.  
 I just ran it on my laptop, dropped a few *"hey, maybe do this"* suggestions,  
-and pretended to understand everything (don’t worry, I eventually did 👀).  
+and tried to understand everything (the workflow and process).  
 So here’s the *officially unofficial* README.
 
 ---
